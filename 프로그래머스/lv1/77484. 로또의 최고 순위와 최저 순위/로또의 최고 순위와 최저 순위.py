@@ -7,4 +7,5 @@ def solution(lottos, win_nums):
     min_rank = dif + 1 if dif <5 else 6
     zero = len([x for x in lottos if x == 0])
     max_rank = dif if zero==0 and dif==6 else dif - zero + 1
+    print(set(lottos)&set(win_nums))
     return [max_rank, min_rank]
