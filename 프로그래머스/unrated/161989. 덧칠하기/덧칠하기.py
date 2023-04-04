@@ -1,8 +1,16 @@
 def solution(n, m, section):
-    section.sort()
-    answer = 0
-    i = 0
-    # m으로 나눠서 몫만 (몫이 같으면 한번에 칠할 수 있음/ 첫번째수가 시작이므로)
-    a = [5, 1, 2]
-    print(a.sort())
+    section = sorted(section)
+    answer = 1
+    i , a = 0, 0
+    
+    while(a != -1) :
+        # m씩 처리해야함
+        if section[i] not in range(section[a], section[a]+m) :
+            a = i
+            answer += 1
+
+        # 하나라도 인덱스 초과하면 에러남, 끝이므로 break
+        if a>=len(section)-1 or i>=len(section)-1 :
+            a = -1
+        i+=1
     return answer
