@@ -1,9 +1,18 @@
 
-# ✏️ **코딩테스트**
-
-
-
-## **📅 일정표 (매주 4문제, 코드리뷰 2문제)**
+# **Coding Test Study**
+#### ✏️ 스마트 부산 아카데미 오전반 코딩 테스트 스터디
+#### ✏️ 안 풀어오면 문제 당 벌금 천원
+#### 
+#### ✏️ 프로그래머스 1단계 4문제
+#### ✏️ 코드리뷰 2문제
+-----
+## **Members**
+#### 재윤
+#### 다은
+#### 의준
+#### 수지
+-----
+## **📅 스터디 일정**
 
 | |1|2|3|4|5|6|7|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -18,11 +27,6 @@
 |3주차(01.31~02.07)|[영어가 싫어요](https://www.acmicpc.net/problem/1949)|[공 던지기](https://www.acmicpc.net/problem/17831)|[소인수분해](https://www.acmicpc.net/problem/1520)|[7의 개수](https://www.acmicpc.net/problem/9019)|[이진수 더하기](https://www.acmicpc.net/problem/9019)|[평균 구하기](https://www.acmicpc.net/problem/9019)|[짝수와 홀수](https://www.acmicpc.net/problem/9019)|
 |2주차(01.24~01.31)|[거품정렬 구현](https://www.acmicpc.net/problem/1949)|[약수의 합](https://www.acmicpc.net/problem/17831)|[나머지 구하기](https://www.acmicpc.net/problem/1520)|[두수의 차](https://www.acmicpc.net/problem/9019)|[숫자 비교하기](https://www.acmicpc.net/problem/9019)|[몫 구하기](https://www.acmicpc.net/problem/9019)|[두수의 곱](https://www.acmicpc.net/problem/9019)|
 |1주차(01.17~01.24)|[다음에 올 숫자](https://www.acmicpc.net/problem/1949)|[종이 자르기](https://www.acmicpc.net/problem/17831)|[문자열 밀기](https://www.acmicpc.net/problem/1520)|[옹알이(1)](https://www.acmicpc.net/problem/9019)|[연속된 수의 합](https://www.acmicpc.net/problem/9019)|
-
-
-
-
-
 
 
 
