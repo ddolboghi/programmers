@@ -20,7 +20,7 @@
 
 | |1|2|3|4|5|6|7|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|12주차(04.04~04.11)|[추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)|[옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499))|[조건에 부합하는 중고거래 댓글 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/176963)|[키패드누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256))
+|12주차(04.04~04.11)|[추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)|[옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)|[조건에 부합하는 중고거래 댓글 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164673)|[키패드누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256))
 |11주차(03.28~04.04)|[기사단원의 무기](https://www.acmicpc.net/problem/1949)|[체육복](https://www.acmicpc.net/problem/17831)|[덧칠하기](https://www.acmicpc.net/problem/1520)|[숫자짝꿍](https://www.acmicpc.net/problem/9019)|[카드뭉치](https://www.acmicpc.net/problem/9019)|
 |10주차(03.21~03.28)|[로또의 최고순위와 최저순위](https://www.acmicpc.net/problem/1949)|[실패율](https://www.acmicpc.net/problem/17831)|[과일 장수](https://www.acmicpc.net/problem/1520)|[명예의 전당](https://www.acmicpc.net/problem/9019)|[[1차]다트게임](https://www.acmicpc.net/problem/9019)|
 |9주차(03.14~03.21)|[푸드 파이트 대회](https://www.acmicpc.net/problem/1949)|[2016년](https://www.acmicpc.net/problem/17831)|[가장 가까운 같은 글자](https://www.acmicpc.net/problem/1520)|[포켓몬](https://www.acmicpc.net/problem/9019)|[소수 찾기](https://www.acmicpc.net/problem/9019)|[모의고사](https://www.acmicpc.net/problem/9019)||[소수 만들기](https://www.acmicpc.net/problem/9019)|[재귀함수 문제](https://www.acmicpc.net/problem/9019)|
