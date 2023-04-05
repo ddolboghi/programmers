@@ -18,7 +18,7 @@
 
 ## **📅 스터디 일정**
 
-| |1|2|3|4|5|6|7|
+| |문제1|문제2|문제3|문제4|문제5|문제6|문제7|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |12주차(04.04~04.11)|[추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)|[옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)|[조건에 부합하는 중고거래 댓글 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164673)|[키패드누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)
 |11주차(03.28~04.04)|[기사단원의 무기](https://www.acmicpc.net/problem/1949)|[체육복](https://www.acmicpc.net/problem/17831)|[덧칠하기](https://www.acmicpc.net/problem/1520)|[숫자짝꿍](https://www.acmicpc.net/problem/9019)|[카드뭉치](https://www.acmicpc.net/problem/9019)|
