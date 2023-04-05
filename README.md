@@ -18,6 +18,7 @@
 
 ## **📅 스터디 일정**
 
+#### 프로그래머스 Lv.1
 | |문제1|문제2|문제3|문제4|문제5|문제6|문제7|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |12주차(04.04~04.11)|[추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)|[옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)|[조건에 부합하는 중고거래 댓글 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164673)|[키패드누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)
@@ -27,6 +28,10 @@
 |8주차(03.07~03.14)|[두 개 뽑아서 더하기](https://www.acmicpc.net/problem/1949)|[숫자 문자열과 영단어](https://www.acmicpc.net/problem/17831)|[K번째수](https://www.acmicpc.net/problem/1520)|[크기가 작은 부분 문자열](https://www.acmicpc.net/problem/9019)|[콜라 문제](https://www.acmicpc.net/problem/9019)|[삼총사](https://www.acmicpc.net/problem/9019)||[최소직사각형](https://www.acmicpc.net/problem/9019)|
 |7주차(02.28~03.07)|[3진법 뒤집기](https://www.acmicpc.net/problem/1949)|[이상한 문자 만들기](https://www.acmicpc.net/problem/17831)|[예산](https://www.acmicpc.net/problem/1520)|[시저 암호](https://www.acmicpc.net/problem/9019)|
 |6주차(02.21~02.28)|[최대공약수와 최소공배수](https://www.acmicpc.net/problem/1949)|[직사각형 별찍기](https://www.acmicpc.net/problem/17831)|[행렬의 덧셈](https://www.acmicpc.net/problem/1520)|[부족한 금액 계산하기](https://www.acmicpc.net/problem/9019)|[문자열 다루기 기본](https://www.acmicpc.net/problem/9019)|[재귀함수 문제 2](https://www.acmicpc.net/problem/9019)|
+
+#### 프로그래머스 Lv.0
+| |문제1|문제2|문제3|문제4|문제5|문제6|문제7|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |5주차(02.14~02.21)|[문자열 내맘대로 정렬하기](https://www.acmicpc.net/problem/1949)|[시간복잡도2](https://www.acmicpc.net/problem/17831)|
 |4주차(02.07~02.14)|[재귀함수](https://www.acmicpc.net/problem/1949)|[시간복잡도](https://www.acmicpc.net/problem/17831)|[비밀지도](https://www.acmicpc.net/problem/1520)
 |3주차(01.31~02.07)|[영어가 싫어요](https://www.acmicpc.net/problem/1949)|[공 던지기](https://www.acmicpc.net/problem/17831)|[소인수분해](https://www.acmicpc.net/problem/1520)|[7의 개수](https://www.acmicpc.net/problem/9019)|[이진수 더하기](https://www.acmicpc.net/problem/9019)|[평균 구하기](https://www.acmicpc.net/problem/9019)|[짝수와 홀수](https://www.acmicpc.net/problem/9019)|
