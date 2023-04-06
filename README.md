@@ -21,7 +21,7 @@
 #### 프로그래머스 Lv.1   `4문제`    + 코드 리뷰  `2문제`  
 | |문제1|문제2|문제3|문제4|코드리뷰1|코드리뷰2|진행<br/>현황|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|12주차<br/>04.04<br/>~<br/>04.11|[추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)|[옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/42576)|[완주하지<br/>못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/164673)|[키패드누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)||| `진행중`   |
+|12주차<br/>04.04<br/>~<br/>04.11|[추억 점수](https://school.programmers.co.kr/learn/courses/30/lessons/176963)|[옹알이(2)](https://school.programmers.co.kr/learn/courses/30/lessons/42576)|[완주하지<br/>못한 선수]([https://school.programmers.co.kr/learn/courses/30/lessons/164673](https://school.programmers.co.kr/learn/courses/30/lessons/42576))|[키패드누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256)||| `진행중`   |
 
 #### 프로그래머스 Lv.1   `5문제`    + 코드 리뷰  `2문제`   
 | |문제1|문제2|문제3|문제4|문제5|코드리뷰1|코드리뷰2|진행<br/>현황|
