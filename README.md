@@ -21,7 +21,7 @@
 #### 프로그래머스 Lv.1   `5문제`    + 코드 리뷰  `2문제`   
 | |문제1|문제2|문제3|문제4|문제5|코드리뷰1|코드리뷰2|진행<br/>현황|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|11주차<br/>05.02<br/>~<br/>05.09|[문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)|[신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)|[둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)|[대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)|[햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)||| `진행중`   |
+|13주차<br/>05.02<br/>~<br/>05.09|[문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)|[신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)|[둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)|[대충 만든 자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)|[햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)||| `진행중`   |
 
 #### 프로그래머스 Lv.1   `4문제`    + 코드 리뷰  `2문제`  
 | |문제1|문제2|문제3|문제4|코드리뷰1|코드리뷰2|진행<br/>현황|
