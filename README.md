@@ -11,17 +11,22 @@
 
 ## **🪪 Members**
 #### 👉  재윤
-#### 👉  다은
+#### 👉  ~~다은~~
 #### 👉  의준
 #### 👉  수지
 -----
 
 ## **📅 스터디 일정**
 
+#### 프로그래머스 Lv.1   `6문제`   
+| |문제1|문제2|문제3|문제4|문제5|문제6|진행<br/>현황|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|14주차<br/>05.10<br/>~<br/>05.16|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|[달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)|[개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)|[바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)|[신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)|[공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)||| `진행 중`   |
+
 #### 프로그래머스 Lv.1   `5문제`    + 코드 리뷰  `2문제`   
 | |문제1|문제2|문제3|문제4|문제5|코드리뷰1|코드리뷰2|진행<br/>현황|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|13주차<br/>05.02<br/>~<br/>05.09|[문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)|[신규 아이디<br/>추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)|[둘만의<br/>암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)|[대충 만든<br/>자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)|[햄버거<br/>만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)||| `진행중`   |
+|13주차<br/>05.02<br/>~<br/>05.09|[문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)|[신규 아이디<br/>추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)|[둘만의<br/>암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)|[대충 만든<br/>자판](https://school.programmers.co.kr/learn/courses/30/lessons/160586)|[햄버거<br/>만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)||| `완료`   |
 
 #### 프로그래머스 Lv.1   `4문제`    + 코드 리뷰  `2문제`  
 | |문제1|문제2|문제3|문제4|코드리뷰1|코드리뷰2|진행<br/>현황|
