@@ -18,6 +18,11 @@
 
 ## **📅 스터디 일정**
 
+#### 프로그래머스 Lv.2   `5문제`   
+| |문제1|문제2|문제3|문제4|문제5|문제6|진행<br/>현황|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|14주차<br/>05.10<br/>~<br/>05.16|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|[달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)|[개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)|[바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)|[신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)|| `진행 중`   |
+
 #### 프로그래머스 Lv.1   `6문제`   
 | |문제1|문제2|문제3|문제4|문제5|문제6|진행<br/>현황|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
