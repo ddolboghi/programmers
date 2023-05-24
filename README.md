@@ -20,9 +20,9 @@
 
 #### 프로그래머스 Lv.2   `5문제`   
 | |문제1|문제2|문제3|문제4|문제5|진행<br/>현황|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|16주차|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|[달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)|[개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)|[바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)|[신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)| `진행 중`   |
-|15주차|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|[달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)|[달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)|| `진행 중`   |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|16주차|[기사단원의<br/>무기](https://www.acmicpc.net/problem/1949)|[체육복](https://www.acmicpc.net/problem/17831)|[덧칠하기](https://www.acmicpc.net/problem/1520)|[숫자짝꿍](https://www.acmicpc.net/problem/9019)|[카드뭉치](https://www.acmicpc.net/problem/9019)| `완료`   |
+|15주차|[로또의<br/>최고순위와<br/>최저순위](https://www.acmicpc.net/problem/1949)|[실패율](https://www.acmicpc.net/problem/17831)|[과일 장수](https://www.acmicpc.net/problem/1520)|[명예의 전당](https://www.acmicpc.net/problem/9019)|[[1차]다트게임](https://www.acmicpc.net/problem/9019)| `진행중`   |
 
 #### 프로그래머스 Lv.1   `6문제`   
 | |문제1|문제2|문제3|문제4|문제5|문제6|진행<br/>현황|
