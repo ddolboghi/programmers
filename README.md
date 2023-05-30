@@ -20,7 +20,7 @@
 
 #### 프로그래머스 Lv.2   `5문제`   
 | |문제1|문제2|문제3|문제4|문제5|진행<br/>현황|
-|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |18주차|[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|[예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)||| `진행 중`   |
 
 #### 프로그래머스 Lv.2   `4문제`   
