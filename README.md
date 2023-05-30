@@ -36,7 +36,7 @@
 #### 프로그래머스 Lv.1   `6문제`   
 | |문제1|문제2|문제3|문제4|문제5|문제6|진행<br/>현황|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|14주차|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|[달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)|[개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)|[바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)|[신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)|[공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)||| `완료`   |
+|14주차|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|[달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)|[개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)|[바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)|[신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)|[공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)| `완료`   |
 
 #### 프로그래머스 Lv.1   `5문제`    + 코드 리뷰  `2문제`   
 | |문제1|문제2|문제3|문제4|문제5|코드리뷰1|코드리뷰2|진행<br/>현황|
