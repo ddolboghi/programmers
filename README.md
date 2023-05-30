@@ -22,15 +22,11 @@
 | |문제1|문제2|문제3|문제4|문제5|진행<br/>현황|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |18주차|[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|[예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)| `진행 중`   |
-|17주차|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|[숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)|[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)|[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)| `완료`   |
-#### 프로그래머스 Lv.2   `4문제`   
-| |문제1|문제2|문제3|문제4|진행<br/>현황|
-|:-:|:-:|:-:|:-:|:-:|:-:|
-|17주차|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|[숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)|[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)|[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)| `완료`   |
 
 #### 프로그래머스 Lv.2   `4문제`   
 | |문제1|문제2|문제3|문제4|진행<br/>현황|
 |:-:|:-:|:-:|:-:|:-:|:-:|
+|17주차|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|[숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)|[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)|[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)| `완료`   |
 |16주차|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|[JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)|[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)|[최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)| `완료`   |
 
 #### 프로그래머스 Lv.1   `6문제`   
@@ -70,6 +66,3 @@
 |3주차|[영어가<br/>싫어요](https://www.acmicpc.net/problem/1949)|[공 던지기](https://www.acmicpc.net/problem/17831)|[소인수분해](https://www.acmicpc.net/problem/1520)|[7의 개수](https://www.acmicpc.net/problem/9019)|[이진수<br/>더하기](https://www.acmicpc.net/problem/9019)|[평균 구하기](https://www.acmicpc.net/problem/9019)|[짝수와 홀수](https://www.acmicpc.net/problem/9019)| `완료`   |
 |2주차|[거품정렬<br/>구현](https://www.acmicpc.net/problem/1949)|[약수의 합](https://www.acmicpc.net/problem/17831)|[나머지<br/>구하기](https://www.acmicpc.net/problem/1520)|[두수의 차](https://www.acmicpc.net/problem/9019)|[숫자 비교하기](https://www.acmicpc.net/problem/9019)|[몫 구하기](https://www.acmicpc.net/problem/9019)|[두수의 곱](https://www.acmicpc.net/problem/9019)| `완료`   |
 |1주차|[다음에 올<br/>숫자](https://www.acmicpc.net/problem/1949)|[종이 자르기](https://www.acmicpc.net/problem/17831)|[문자열 밀기](https://www.acmicpc.net/problem/1520)|[옹알이(1)](https://www.acmicpc.net/problem/9019)|[연속된 수의<br/>합](https://www.acmicpc.net/problem/9019)||| `완료`   |
-
-
-
