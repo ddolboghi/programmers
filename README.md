@@ -66,6 +66,3 @@
 |3주차|[영어가<br/>싫어요](https://www.acmicpc.net/problem/1949)|[공 던지기](https://www.acmicpc.net/problem/17831)|[소인수분해](https://www.acmicpc.net/problem/1520)|[7의 개수](https://www.acmicpc.net/problem/9019)|[이진수<br/>더하기](https://www.acmicpc.net/problem/9019)|[평균 구하기](https://www.acmicpc.net/problem/9019)|[짝수와 홀수](https://www.acmicpc.net/problem/9019)| `완료`   |
 |2주차|[거품정렬<br/>구현](https://www.acmicpc.net/problem/1949)|[약수의 합](https://www.acmicpc.net/problem/17831)|[나머지<br/>구하기](https://www.acmicpc.net/problem/1520)|[두수의 차](https://www.acmicpc.net/problem/9019)|[숫자 비교하기](https://www.acmicpc.net/problem/9019)|[몫 구하기](https://www.acmicpc.net/problem/9019)|[두수의 곱](https://www.acmicpc.net/problem/9019)| `완료`   |
 |1주차|[다음에 올<br/>숫자](https://www.acmicpc.net/problem/1949)|[종이 자르기](https://www.acmicpc.net/problem/17831)|[문자열 밀기](https://www.acmicpc.net/problem/1520)|[옹알이(1)](https://www.acmicpc.net/problem/9019)|[연속된 수의<br/>합](https://www.acmicpc.net/problem/9019)||| `완료`   |
-
-
-
