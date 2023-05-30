@@ -27,10 +27,6 @@
 | |문제1|문제2|문제3|문제4|진행<br/>현황|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |17주차|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|[숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)|[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)|[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)| `완료`   |
-
-#### 프로그래머스 Lv.2   `4문제`   
-| |문제1|문제2|문제3|문제4|진행<br/>현황|
-|:-:|:-:|:-:|:-:|:-:|:-:|
 |16주차|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|[JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)|[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)|[최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)| `완료`   |
 
 #### 프로그래머스 Lv.1   `6문제`   
