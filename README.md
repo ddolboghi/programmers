@@ -18,16 +18,20 @@
 
 ## **📅 스터디 일정**
 
-#### 프로그래머스 Lv.2   `5문제`   
-| |문제1|문제2|문제3|문제4|문제5|진행<br/>현황|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|16주차|[기사단원의<br/>무기](https://www.acmicpc.net/problem/1949)|[체육복](https://www.acmicpc.net/problem/17831)|[덧칠하기](https://www.acmicpc.net/problem/1520)|[숫자짝꿍](https://www.acmicpc.net/problem/9019)|[카드뭉치](https://www.acmicpc.net/problem/9019)| `완료`   |
-|15주차|[로또의<br/>최고순위와<br/>최저순위](https://www.acmicpc.net/problem/1949)|[실패율](https://www.acmicpc.net/problem/17831)|[과일 장수](https://www.acmicpc.net/problem/1520)|[명예의 전당](https://www.acmicpc.net/problem/9019)|[[1차]다트게임](https://www.acmicpc.net/problem/9019)| `진행중`   |
+#### 프로그래머스 Lv.2   `4문제`   
+| |문제1|문제2|문제3|문제4|진행<br/>현황|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|17주차|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|[숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)|[다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)|[피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)||| `완료`   |
+
+#### 프로그래머스 Lv.2   `4문제`   
+| |문제1|문제2|문제3|문제4|진행<br/>현황|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|16주차|[올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)|[JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)|[최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)|[최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)||| `완료`   |
 
 #### 프로그래머스 Lv.1   `6문제`   
 | |문제1|문제2|문제3|문제4|문제5|문제6|진행<br/>현황|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|14주차|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|[달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)|[개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)|[바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)|[신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)|[공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)||| `진행 중`   |
+|14주차|[성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)|[달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)|[개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)|[바탕화면 정리](https://school.programmers.co.kr/learn/courses/30/lessons/161990)|[신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)|[공원 산책](https://school.programmers.co.kr/learn/courses/30/lessons/172928)||| `완료`   |
 
 #### 프로그래머스 Lv.1   `5문제`    + 코드 리뷰  `2문제`   
 | |문제1|문제2|문제3|문제4|문제5|코드리뷰1|코드리뷰2|진행<br/>현황|
