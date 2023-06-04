@@ -7,3 +7,6 @@ def solution(n,a,b):
             break
         i += 1
     return answer
+
+def another_level(n,a,b):
+    return ((a-1)^(b-1)).bit_length()
