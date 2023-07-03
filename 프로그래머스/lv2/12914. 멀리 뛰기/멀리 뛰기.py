@@ -1,3 +1,4 @@
+# 다른사람 풀이 좀 보고 느껴라
 import sys
 sys.setrecursionlimit(10 ** 6)
 def solution(n):
