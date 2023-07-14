@@ -17,16 +17,18 @@
 -----
 
 ## **📅 스터디 일정**
+# 8월 2일까지 하루에 3문제씩 풀기!!
+#### 그때까지 README 업데이트는 안합니다. 너무 많아
 
 #### 프로그래머스 Lv.2   `5문제`   
 | |문제1|문제2|문제3|문제4|문제5|진행<br/>현황|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|19주차|[점프와 순간이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)|[N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)|[멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)|[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|[괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)| `진행 중`   |
+|19주차|[점프와 순간이동](https://school.programmers.co.kr/learn/courses/30/lessons/12980)|[N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)|[멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)|[귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|[괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)| `완료`  |
 
 #### 프로그래머스 Lv.2   `5문제`   
 | |문제1|문제2|문제3|문제4|문제5|진행<br/>현황|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|18주차|[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|[예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)| `진행 중`   |
+|18주차|[짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|[영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|[카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)|[구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|[예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)| `완료`   |
 
 #### 프로그래머스 Lv.2   `4문제`   
 | |문제1|문제2|문제3|문제4|진행<br/>현황|
