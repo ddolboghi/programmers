@@ -22,6 +22,12 @@
 #### 백준 알고리즘 문제
 | |문제집|문제 개수|
 |:-:|:-:|:-:|
+|21주차|[DFS & BFS](https://www.acmicpc.net/workbook/view/1983)|12|
+
+
+#### 백준 알고리즘 문제
+| |문제집|문제 개수|
+|:-:|:-:|:-:|
 |20주차|[그리디](https://www.acmicpc.net/workbook/view/7320)|17|
 
 
