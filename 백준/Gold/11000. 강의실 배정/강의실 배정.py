@@ -1,18 +1,15 @@
-import sys
-import heapq
-
 n = int(input())
 lec = [list(map(int, input().split())) for _ in range(n)]
 
-lec = sorted(lec, key=lambda x: (x[0], x[1]))
+start_times = sorted([x[0] for x in lec])
+end_times = sorted([x[1] for x in lec])
 
-rooms = []
-heapq.heappush(rooms, lec[0][1])
-for i in range(1,n):
-    if rooms[0] > lec[i][0]:
-        heapq.heappush(rooms, lec[i][1])
+i = 0
+cnt = 0
+for s in start_times:
+    if s >= end_times[i]:
+        i += 1
     else:
-        heapq.heappop(rooms)
-        heapq.heappush(rooms, lec[i][1])
-
-print(len(rooms))
+        cnt += 1
+        
+print(cnt)
