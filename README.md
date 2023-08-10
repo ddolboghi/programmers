@@ -19,6 +19,7 @@
 ## **📅 스터디 일정**
 # 하루에 3문제씩 풀기!!
 [python 시간복잡도(공식문서)](https://wiki.python.org/moin/TimeComplexity)
+
 [백준 문제집 해설 유튜브](https://www.youtube.com/@BaaaaaaaaaaaaaaaaaaaaarkingDog/videos)
 
 #### 백준 알고리즘 문제
