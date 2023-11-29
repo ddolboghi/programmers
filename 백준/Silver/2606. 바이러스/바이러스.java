@@ -22,24 +22,25 @@ public class Main {
         }
 
         boolean[] visited = new boolean[n+1];
+        Arrays.fill(visited, false);
 
-        System.out.println(dfs(graph, visited));
+        System.out.println(bfs(graph, visited));
     }
 
-    private int dfs(List<List<Integer>> graph, boolean[] visited) {
+    private int bfs(List<List<Integer>> graph, boolean[] visited) {
         int count = 0;
         int start = 1;
-        Stack<Integer> stack = new Stack<>();
-        stack.add(start);
+        Queue<Integer> q = new LinkedList<>();
+        q.add(start);
         visited[start] = true;
 
-        while (!stack.isEmpty()) {
-            int v = stack.pop();
+        while (!q.isEmpty()) {
+            int v = q.poll();
 
             for (int node : graph.get(v)) {
                 if (!visited[node]) {
                     visited[node] = true;
-                    stack.push(node);
+                    q.add(node);
                     count++;
                 }
             }
